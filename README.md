@@ -1,6 +1,6 @@
 # golf-bookings
 
-As a golfer, I want to see which public and semi-public tee times are best for me to book in a given time frame
+As a golfer, I want to see which public and semi-public tee times are best for me to book in a given time frame so I can book tee times for myself and others without checking multiple places and automating subsequent follow-ups
 
 AC:
 1. wish list
